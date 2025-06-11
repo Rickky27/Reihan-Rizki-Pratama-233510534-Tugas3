@@ -8,6 +8,7 @@
 
 <script>
 export default {
+import GrandchildComponent from './GrandchildComponent.vue'
   name: 'GrandchildComponent',
   methods: {
     sendMessageToParent() {
