@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import GrandchildComponent from './GrandchildComponent.vue'
+import GrandchildComponent from './components/GrandchildComponent.vue'
 
 export default {
   name: 'ChildComponent',
