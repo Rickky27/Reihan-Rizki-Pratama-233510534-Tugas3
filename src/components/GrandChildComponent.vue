@@ -7,9 +7,6 @@
 </template>
 
 <script>
-import GrandchildComponent from '/components/randChildComponent.vue'
-
-
 export default {
   name: 'GrandchildComponent',
   methods: {
