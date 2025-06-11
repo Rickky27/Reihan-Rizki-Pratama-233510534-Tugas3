@@ -29,7 +29,7 @@
 
 <script>
 // Using absolute path import to prevent resolution issues
-import GrandchildComponent from '@/components/GrandchildComponent.vue'
+import GrandchildComponent from './components/GrandchildComponent.vue'
 
 export default {
   name: 'ChildComponent',
